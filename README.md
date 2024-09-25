@@ -18,6 +18,15 @@ Before we start we are going to create a file called .gitignore in our folder wi
 
 ![git clone](https://github.com/jhoncarlosam-dev/test_credit/raw/feature/image-3.png)
 
+- we are create the local branch feature
+```
+git checkout -b feature
+```
+- we pull the remote repository to the local branch feature
+```
+git pull origin feature
+```
+
 2. Activate a virtual environment(optional).
 ```
 py -m venv venv
