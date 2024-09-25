@@ -19,7 +19,9 @@ Before we start we are going to create a file called .gitignore in our folder wi
 ![git clone](https://github.com/jhoncarlosam-dev/test_credit/raw/feature/image-3.png)
 
 2. Activate a virtual environment(optional).
-
+```
+py -m venv venv
+```
 ![activate venv](https://github.com/jhoncarlosam-dev/test_credit/raw/feature/image-4.png)
 
 3. Install dependencies:
