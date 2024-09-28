@@ -53,4 +53,6 @@ Note:
 - To create the file requirements.txt run the first command and to read the file in CMD run the second command.
 ```
 pip freeze > requirements.txt
-``` 
+```
+
+5.The documentation of the project in general was carried out.
