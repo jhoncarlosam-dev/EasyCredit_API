@@ -1,7 +1,7 @@
 # Members
 - William Steven Sosa Osorio 1151734
 - Juan Diego Contreras 1152224
-- Jhon Carlos Acevedo Mendoza 1151661
+- Jhon Acevedo 1151661
 
 ## Steps to clone a repository for App EasyCredit
    
@@ -53,4 +53,6 @@ Note:
 - To create the file requirements.txt run the first command and to read the file in CMD run the second command.
 ```
 pip freeze > requirements.txt
-``` 
+```
+
+5.The documentation of the project in general was carried out.
