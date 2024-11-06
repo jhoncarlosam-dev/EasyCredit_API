@@ -54,5 +54,3 @@ Note:
 ```
 pip freeze > requirements.txt
 ```
-
-5.The documentation of the project in general was carried out.
