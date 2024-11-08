@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    # 'jazzmin',
+    'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -48,9 +48,9 @@ INSTALLED_APPS = [
     'payments',
 ]
 
-# JASSMINEAZZMIN_SETTINGS = {
-#     "site_title": "CHARLES",
-#     }
+JASSMINEAZZMIN_SETTINGS = {
+    "site_title": "CHARLES",
+}
 
 REST_FRAMEWORK = {
   'DEFAULT_PERMISSION_CLASSES': [
